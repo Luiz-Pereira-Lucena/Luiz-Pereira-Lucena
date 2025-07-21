@@ -38,7 +38,7 @@
 <div align="center">
   <br>
   <p><b>👀 Visitors Count</b></p>  
-  <img src="https://profile-counter.glitch.me/Luiz-Pereira-Lucena/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/{Luiz-Pereira-Lucena-Neto}/count.svg" alt="Visitor Count" />
   <br>
 </div>
 
